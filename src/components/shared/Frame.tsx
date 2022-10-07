@@ -1,9 +1,9 @@
 import Header from "./Header"
 const Frame = ({ children }: any) => {
   return (
-    <div>
+    <div className="bg-blue-300">
       <Header />
-      <div className="bg-gray-500 min-h-[100vh]">{children}</div>
+      <div className=" min-h-[100vh]">{children}</div>
     </div>
   )
 }
