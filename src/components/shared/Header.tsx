@@ -1,23 +1,11 @@
 import { useState } from "react"
 import Path from "route/path"
 import ScreenScroolHook from "hook/ScreenScroolHook"
+import { routes } from "route"
 const Header = () => {
   const [open, setOpen] = useState(false)
   const scrollY = ScreenScroolHook()
-  const items = [
-    {
-      label: "Home",
-      path: Path.Home.Root,
-    },
-    {
-      label: "Source",
-      path: Path.Source.Root,
-    },
-    {
-      label: "Useful Links",
-      path: Path.UsefulLinks.Root,
-    },
-  ]
+  const items = routes
 
   return (
     <div className={`flex sm:justify-center items-center w-full`}>

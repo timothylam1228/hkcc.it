@@ -8,5 +8,8 @@ const Path = {
   UsefulLinks: {
     Root: "/links",
   },
+  Path: {
+    Root: "/path",
+  },
 }
 export default Path
