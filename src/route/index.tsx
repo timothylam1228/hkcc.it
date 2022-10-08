@@ -4,6 +4,7 @@ import Path from "./path"
 
 import Home from "pages/Home"
 import Source from "pages/Source"
+import UsefulLink from "pages/UsefulLink"
 const routes = [
   {
     path: Path.Home.Root,
@@ -14,6 +15,11 @@ const routes = [
     path: Path.Source.Root,
     exact: true,
     element: <Source />,
+  },
+  {
+    path: Path.UsefulLinks.Root,
+    exact: true,
+    element: <UsefulLink />,
   },
 ]
 const Router = () => {

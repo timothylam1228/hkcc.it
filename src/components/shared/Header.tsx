@@ -13,6 +13,10 @@ const Header = () => {
       label: "Source",
       path: Path.Source.Root,
     },
+    {
+      label: "Useful Links",
+      path: Path.UsefulLinks.Root,
+    },
   ]
 
   return (
@@ -23,11 +27,11 @@ const Header = () => {
         }`}
       >
         <div className="flex w-4/5 justify-between items-center">
-          <div className="text-2xl font-bold">S</div>
+          <div className="text-2xl font-bold">HKCC IT</div>
           <div className="flex flex-end">
             {items.map((item, index) => {
               return (
-                <a key={index} href={item.path} className="text-xl px-2">
+                <a key={index} href={item.path} className="text-xl mx-2  ">
                   {item.label}
                 </a>
               )
@@ -59,7 +63,7 @@ const Header = () => {
           <div className="flex flex-col justify-center items-center h-1/2">
             {items.map((item) => {
               return (
-                <a href={item.path} className="text-xl px-2 text-black">
+                <a href={item.path} className="text-xl px-2 text-black ">
                   {item.label}
                 </a>
               )
