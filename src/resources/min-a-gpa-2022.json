@@ -1,0 +1,200 @@
+[
+    {
+        "Institute": "HKU",
+        "Programme": "BEng in Computer Science",
+        "Award GPA": 4,
+        "Count": 1
+    },
+    {
+        "Institute": "CUHK",
+        "Programme": "BSc in Computer Science",
+        "Award GPA": 3.58,
+        "Count": 2
+    },
+    {
+        "Institute": "CUHK",
+        "Programme": "BEng in Computer Engineering",
+        "Award GPA": 3.13,
+        "Count": 3
+    },
+    {
+        "Institute": "CUHK",
+        "Programme": "BEng in Information Engineering",
+        "Award GPA": 3.13,
+        "Count": 4
+    },
+    {
+        "Institute": "CUHK",
+        "Programme": "BEng in Electronic Engineering",
+        "Award GPA": 3.26,
+        "Count": 1
+    },
+    {
+        "Institute": "CUHK",
+        "Programme": "Bachelor of Engineering",
+        "Award GPA": 3.16,
+        "Count": 3
+    },
+    {
+        "Institute": "HKUST",
+        "Programme": "BEng in Computer Science",
+        "Award GPA": 3.74,
+        "Count": 5
+    },
+    {
+        "Institute": "HKUST",
+        "Programme": "BEng in Computer Engineering",
+        "Award GPA": 3.5,
+        "Count": 11
+    },
+    {
+        "Institute": "HKUST",
+        "Programme": "BEng in Electronic Engineering",
+        "Award GPA": 3,
+        "Count": 2
+    },
+    {
+        "Institute": "PolyU",
+        "Programme": "Broad Discipline of Computing (SY)",
+        "Award GPA": 3.47,
+        "Count": 10
+    },
+    {
+        "Institute": "PolyU",
+        "Programme": "Broad Discipline of Computing (Yr1)",
+        "Award GPA": 3.31,
+        "Count": 8
+    },
+    {
+        "Institute": "PolyU",
+        "Programme": "BSc (Hons) in Internet and Multimedia Technologies",
+        "Award GPA": 3.34,
+        "Count": 3
+    },
+    {
+        "Institute": "PolyU",
+        "Programme": "BSc (Hons) in Information Security",
+        "Award GPA": 3,
+        "Count": 18
+    },
+    {
+        "Institute": "PolyU",
+        "Programme": "BSc (Hons) in Financial Technology",
+        "Award GPA": 3.24,
+        "Count": 3
+    },
+    {
+        "Institute": "PolyU",
+        "Programme": "BSc (Hons) in Data Science and Analytics",
+        "Award GPA": 3.18,
+        "Count": 2
+    },
+    {
+        "Institute": "PolyU",
+        "Programme": "BSc (Hons) Scheme in Logistics and Enterprise Engineering",
+        "Award GPA": 3.38,
+        "Count": 1
+    },
+    {
+        "Institute": "CityU",
+        "Programme": "BEng in Information Engineering",
+        "Award GPA": 3.23,
+        "Count": 2
+    },
+    {
+        "Institute": "CityU",
+        "Programme": "BEng in Computer and Data Engineering",
+        "Award GPA": 3,
+        "Count": 5
+    },
+    {
+        "Institute": "CityU",
+        "Programme": "BSc (Hons) in Computer Science",
+        "Award GPA": 3.61,
+        "Count": 3
+    },
+    {
+        "Institute": "PolyU-SPEED",
+        "Programme": "BSc (Hons) in Applied Sciences (Information Systems and Web Technologies)",
+        "Award GPA": 2.03,
+        "Count": 15
+    },
+    {
+        "Institute": "PolyU-SPEED",
+        "Programme": "BA (Hons) in Marketing and Public Relations",
+        "Award GPA": 2.76,
+        "Count": 1
+    },
+    {
+        "Institute": "OUHK",
+        "Programme": "Bachelor of Computing with Honours in Internet Technology",
+        "Award GPA": 2.78,
+        "Count": 3
+    },
+    {
+        "Institute": "OUHK",
+        "Programme": "BBA (Hons) in Financial Technology and Innovation",
+        "Award GPA": 2.74,
+        "Count": 1
+    },
+    {
+        "Institute": "OUHK",
+        "Programme": "BA (Hons) in Computing and Interactive Entertainment",
+        "Award GPA": 2.76,
+        "Count": 2
+    },
+    {
+        "Institute": "OUHK",
+        "Programme": "BSc (Hons) in Cyber and Computer Security",
+        "Award GPA": 2.45,
+        "Count": 1
+    },
+    {
+        "Institute": "OUHK",
+        "Programme": "BSc (Hons) in Computer Science",
+        "Award GPA": 2.41,
+        "Count": 7
+    },
+    {
+        "Institute": "OUHK",
+        "Programme": "BBA (Hons) in Financial Technology and Innovation",
+        "Award GPA": 2.74,
+        "Count": 1
+    },
+    {
+        "Institute": "HSUHK",
+        "Programme": "Bachelor of Management Science and Information Management",
+        "Award GPA": 2.72,
+        "Count": 1
+    },
+    {
+        "Institute": "HSUHK",
+        "Programme": "BA (Hons) in Applied and Human-centred Computing",
+        "Award GPA": 2.94,
+        "Count": 3
+    },
+    {
+        "Institute": "HSUHK",
+        "Programme": "BBA (Hons) in Finance and Banking",
+        "Award GPA": 2.16,
+        "Count": 1
+    },
+    {
+        "Institute": "EduHK",
+        "Programme": "Bachelor of Education (Hons) (Secondary) - Information and Communication Technology",
+        "Award GPA": 3.09,
+        "Count": 3
+    },
+    {
+        "Institute": "LingU",
+        "Programme": "BSc (Hons) in Data Science",
+        "Award GPA": 3.04,
+        "Count": 1
+    },
+    {
+        "Institute": "NTUT (Taiwan)",
+        "Programme": "BSc in Computer Science and Information Engineering",
+        "Award GPA": 2.92,
+        "Count": 1
+    }
+]

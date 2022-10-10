@@ -8,7 +8,7 @@ const Header = () => {
   const items = routes
 
   return (
-    <div className={`flex sm:justify-center items-center w-full`}>
+    <div className={`flex sm:justify-center items-center w-full `}>
       <div
         className={`hidden sm:flex bg-white w-full  transition-all duration-500 justify-center ${
           scrollY > 0 ? " fixed top-0 shadow-md py-5 " : "py-10"
@@ -37,7 +37,7 @@ const Header = () => {
 
         <div
           className={`${
-            open ? "w-full h-full" : "w-0 h-0 left-[-50%]"
+            open ? "w-full h-full" : "w-0 h-0 left-[-100%]"
           } absolute top-0 left-0 w-full h-full bg-yellow-500 transition-all transform duration-500`}
         >
           <div className="flex justify-start">
